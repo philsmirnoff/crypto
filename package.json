@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.6.4",
+    "@babel/core": "^7.17.9",
+    "@babel/eslint-parser": "^7.17.0",
     "@reduxjs/toolkit": "^1.6.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -52,8 +54,7 @@
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-react": "^7.25.1",
+    "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.2.0"
   }
 }
-
